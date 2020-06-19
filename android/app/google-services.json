@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180346930130",
+    "firebase_url": "https://pdelivery-33ed2.firebaseio.com",
+    "project_id": "pdelivery-33ed2",
+    "storage_bucket": "pdelivery-33ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180346930130:android:0f8358716111c3db3efe0b",
+        "android_client_info": {
+          "package_name": "com.example.pdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180346930130-jcaij8grci515c8s5ml3mc82mhkitt3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwwPniWD_X4iUxrykgMRSE8m9hoElyPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180346930130-jcaij8grci515c8s5ml3mc82mhkitt3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
